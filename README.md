@@ -61,4 +61,27 @@
 - Fortnite+10.40Dev-Android [Download](https://cdn.discordapp.com/attachments/784567894347743252/849038005611397120/Fortnite_10.40.apk)
 - Fortnite+10.40DevSSL-Android [Download](https://cdn.discordapp.com/attachments/784567894347743252/849416302803812372/Fortnite_10.40_DEVBUILD_No_SSL_Pinning_TEST2.apk)
 
-Credits to Nintendoss for links.
+
+
+### Chapter 2
+- Fortnite+12.50-CL-13070927-Android [Download](https://download.epicgames.com/Builds/Fortnite/Apk/fpbBbXcFKoMCZ54Wx0ORNGh9iI9v0A.apk)
+- Fortnite+13.00-CL-13649278-Android [Download](https://download.epicgames.com/Builds/Fortnite/Apk/rLMAEvLhxGYr6Lzqx0KJrR3bwjl3ww.apk)
+- Fortnite+13.20-CL-13777676-Android [Download](https://download.epicgames.com/Builds/Fortnite/Apk/NZH1KVkueuRbHJyzVUqj2jxOjudsBA.apk)
+- Fortnite+13.40-CL-14009477-Android [Download](https://download.epicgames.com/Builds/Fortnite/Apk/wHKFZIVWMtpFF6k2W0mY6PZRPel4bA.apk)
+- Fortnite+14.20-CL-14382452-Android [Download](https://download.epicgames.com/Builds/Fortnite/Apk/Iy4rc3pgU6idaVFO60ilCytWPloJdA.apk)
+- Fortnite+14.30-CL-14472258-Android [Download](https://download.epicgames.com/Builds/Fortnite/Apk/hqR7duAeIOY4FZcF-U6-WRYHbiCUSg.apk)
+- Fortnite+14.40-CL-14512296-Android [Download](https://download.epicgames.com/Builds/Fortnite/Apk/e9imAC1pIDoV0EcG8USAexuSyVI1Zw.apk)
+- Fortnite+14.50-CL-14612224-Android [Download](https://download.epicgames.com/Builds/Fortnite/Apk/ZarhOTPGGgjXrigaeUa5uYut6L5stA.apk)
+- Fortnite+14.60-CL-14749530-Android [Download](https://download.epicgames.com/Builds/Fortnite/Apk/oy-rTTV5DKihksLSXkeqiFHf3bJWsg.apk)
+- Fortnite+15.30-CL-15306522-Android [Download](https://download.epicgames.com/Builds/Fortnite/Apk/eWmiWtio3xCFWt9zqUaJenv5x67pjw.apk)
+- Fortnite+15.40-CL-15385160-Android [Download](https://download.epicgames.com/Builds/Fortnite/Apk/9uNNmMSrGQxhg4VJ6kiWB1MSR6yKbA.apk)
+- Fortnite+16.40-CL-16227914-Android [Download](https://download.epicgames.com/Builds/Fortnite/Apk/6oCsThtOptRg4rUMn02oBaSescZQmw.apk)
+- Fortnite+17.30-CL-17004569-Android [Download](https://download.epicgames.com/Builds/Fortnite/Apk/Y7D325vRCVGCIopmS0ydTLSCF2WTHQ.apk)
+- Fortnite+17.50-CL-17388565-Android [Download](https://download.epicgames.com/Builds/Fortnite/Apk/dfmbrVabJDkffo3JFUm9lCzsuDfxNw.apk)
+- Fortnite+18.40-CL-18167774-Android [Download](https://download.epicgames.com/Builds/Fortnite/Apk/zXlD50eK4jjDJ7HYFEyw7-hSarZZ-g.apk)
+- Fortnite+19.10-CL-18675304-Android [Download](https://download.epicgames.com/Builds/Fortnite/Apk/cBHUNUDenH2687fMQkuN9CGAYRATvg.apk)
+- Fortnite+20.40-CL-20244966-Android [Download](https://download.epicgames.com/Builds/Fortnite/Apk/kHCS9CviEm7Pd_3NZEixlYElSreT7g.apk)
+
+### Credits
+Credits to Nintendoss for Chapter 1 links.
+
